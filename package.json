@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "node dist/index.js"
+    "dev": "node dist/index.js",
+    "run": "tsc && node dist/index.js"
   },
-  "author": "",
+  "author": "",D
   "license": "ISC"
 }

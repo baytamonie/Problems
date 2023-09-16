@@ -1,3 +1,5 @@
-import {greet} from "./export/test";
+import {expect} from "./thirtyDaysOfJavaScript/ToBeOrNotToBe"
 
-greet()
+
+console.log(expect(2).toBe(2))
+console.log(expect(2).notToBe(3))
