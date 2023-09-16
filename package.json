@@ -8,6 +8,6 @@
     "dev": "node dist/index.js",
     "run": "tsc && node dist/index.js"
   },
-  "author": "",D
+  "author": "Mbetamony",
   "license": "ISC"
 }
